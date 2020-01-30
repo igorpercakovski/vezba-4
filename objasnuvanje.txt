@@ -1,0 +1,9 @@
+isto i ovde fajlovite gi zacuvavvo xls bidejki csm vo zacuvuvanjeto pravea greski.
+
+1. najprvo imame dva snap za fie read za vcituvanje na fajlovite i naredni se dva excel parser
+za obrabotka 
+2. potoa imame dva snap za sortiranje po kolonata DEPT za da mozeme da napravime join na taa kolona so sledniot snap join
+3. potoa dodavame snap copy za da ja iskopira novosozdadenata tabela na tri kopii posle koi ima snapovi filter
+i se filtrira sekoja profesija (IT, Billing, Finance) za da mozime da gi izbroime so snapovite aggregate
+4. site tie dobieni tabeli so izbroeni profesii gi soedinuvame so join i na krajot so fole writter
+zapisuvame nova tabela so izbroenite profesii. 
